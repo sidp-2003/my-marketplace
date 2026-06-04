@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "",
+      "name": "daily-planner",
       "source": {
         "source": "github",
-        "repo": "sidp-2003/CUSTOM_PLUGIN"
+        "repo": "sidp-2003/Plugins"
       }
     }
   ]
