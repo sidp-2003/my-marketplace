@@ -5,7 +5,7 @@
   },
   "plugins": [
     {
-      "name": "word-counter",
+      "name": "",
       "source": {
         "source": "github",
         "repo": "sidp-2003/CUSTOM_PLUGIN"
