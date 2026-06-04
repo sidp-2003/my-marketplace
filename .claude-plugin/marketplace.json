@@ -1,0 +1,15 @@
+{
+  "name": "My Marketplace",
+  "owner": {
+    "name": "Siddhant"
+  },
+  "plugins": [
+    {
+      "name": "daily-planner",
+      "source": {
+        "source": "github",
+        "repo": "sidp-2003/Plugins"
+      }
+    }
+  ]
+}
